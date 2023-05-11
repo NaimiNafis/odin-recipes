@@ -1,0 +1,19 @@
+
+h1{
+    color: brown;
+}
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+.recipe-list li button {
+    background-color: rgb(255, 221, 0);
+    font-size: medium;
+}
+
